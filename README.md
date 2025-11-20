@@ -41,10 +41,21 @@ const developer = {
 };
 ```
 
-💡 **Passionate** about creating seamless user experiences and writing clean, maintainable code. I love staying up-to-date with the latest web technologies and best practices to deliver modern, responsive websites that make an impact.
+<br >
 
-🎯 **Currently focusing on:** React.js, Modern CSS Techniques, and Web Performance Optimization
-
+✨ Passionate 
+    Front-End Developer specializing in crafting pixel-perfect, responsive web experiences that users love!
+    <br>
+💻 What I Do: Transform creative designs into clean, efficient code while maintaining scalability and performance
+ <br>
+🎯 My Mission: Bridge the gap between design and functionality, creating interfaces that are both beautiful and intuitive
+ <br>
+🚀 Always Learning: Staying ahead of the curve with the latest web technologies, frameworks, and industry best practices
+ <br>
+💡 Core Values: Clean code, user-first design, accessibility, and continuous improvement
+ <br>
+🌟 Currently focusing on: React.js Ecosystem, Modern CSS Techniques, and Web Performance Optimization
+ <br>
 <br clear="both">
 
 ## 🛠️ Tech Stack & Skills
