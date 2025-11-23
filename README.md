@@ -24,10 +24,10 @@
 
 ```javascript
 const developer = {
-    name: "Front-End Developer",
+    name: "Software Engineer",
     role: "UI/UX Engineer",
-    location: "Rawalpindi, Pakistan 🇵🇰",
-    code: ["JavaScript", "HTML5", "CSS3"],
+    location: "Islamabad, Pakistan 🇵🇰",
+    code: ["JavaScript", "HTML5", "CSS3", "React", "TypeScript", "NextJs"],
     technologies: {
         frontEnd: {
             js: ["React.js"],
@@ -41,7 +41,12 @@ const developer = {
 };
 ```
 
+
+
 <br >
+
+
+
 
 ✨ Passionate 
     Front-End Developer specializing in crafting pixel-perfect, responsive web experiences that users love!
